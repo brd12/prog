@@ -1,1 +1,1 @@
-# prog
+Eventualmente debería estar la mayoría (?)
